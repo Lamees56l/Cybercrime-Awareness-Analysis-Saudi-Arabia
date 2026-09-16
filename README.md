@@ -14,6 +14,10 @@ Before performing the data cleaning and analysis steps, the dataset was slightly
 ## Results 
 The analysis helps provide insights into the level of cybercrime awareness among Saudi nationals and highlights patterns found in the dataset after cleaning and preprocessing.
 
+## Contributors
+
+This project was developed collaboratively by the team.
+
 ## Dataset Citation
 
 Alzubaidi, Abdulaziz (2021). 
